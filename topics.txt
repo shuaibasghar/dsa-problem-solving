@@ -2,4 +2,4 @@
 2. Anagram
 3. sliding window
 4. Binary Search/Divide and conqueror technique
-5. 
+5. frequency counter
