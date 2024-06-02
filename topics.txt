@@ -3,3 +3,5 @@
 3. sliding window
 4. Binary Search/Divide and conqueror technique
 5. frequency counter
+6. Multipointer technique
+7. Patterns
