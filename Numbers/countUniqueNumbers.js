@@ -37,3 +37,6 @@ function countUnique(array) {
 }
 const result = countUnique([1, 1, 2, 2, 3, 4, 4, 5, 6, 7, 8, 8]);
 console.log(result);
+
+// Time complexity: O(n) -- Linear time complexity
+// 
